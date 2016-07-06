@@ -1,6 +1,6 @@
-# Hypejoy Theme
+# SeniorCast Theme
 
-Hypejoy is a simple marketing signup landing page theme for startups and companies that run marketplaces and/or two-sided services/products.
+SeniorCast is a simple marketing signup landing page theme for startups and companies that run marketplaces and/or two-sided services/products.
 
 
 ____
